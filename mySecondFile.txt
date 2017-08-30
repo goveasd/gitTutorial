@@ -1,1 +1,2 @@
+# This is the comment you wanted
 This is a second file. Just to see how it works via Desktop 
